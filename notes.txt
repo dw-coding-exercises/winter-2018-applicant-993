@@ -1,0 +1,4 @@
+As I approached the 2 hour mark, I opted to abandon functionality in order to get more functions defined and logic down to show what my thought process was.
+I was glad that the page still compiled, however I realized too late that the reason why my actions after the POST request were not happening was because I had closed
+off the parenthesis for the POST request section! Given more time, I would have liked to ensure the API call was correct and redirect to "/results" to at least display the raw
+response. Destructuring the response and presenting it on the page is a user friendly way would be the obvious next step. I also would have loved to have written some feature tests!
